@@ -1,3 +1,3 @@
-# EE-Core-Group.github.io
+# EECG
 
-EECG Home Page
+## EECG Home Page
