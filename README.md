@@ -4,7 +4,7 @@
 
 EECG（EE Core Group）是清华大学电子工程系之地下学生组织。EECG 本着弘扬社会正能量之精神，为读者呈现电子系学生之面貌，践行新时代青年之责任，体现电子系学生自强不息、为国奉献的精神品质。
 
-EECG (Core Group for Electronic Engineering) is an UNOFFICIAL organization established by students in the department of EE of the Tsinghua University, sharing daily life and study resources.
+EECG (Core Group for Electronic Engineering) is an UNOFFICIAL organization established by students in the department of EE of Tsinghua University, sharing daily life and study resources.
 
 ## Research Support
 
