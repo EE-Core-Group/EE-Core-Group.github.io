@@ -15,10 +15,10 @@ We have given technical supports and spirit supports for several research.
 + SIGGRAPH 2025 by [Tianyu Huang](https://github.com/tyanyuy3125): Guiding-Based Importance Sampling for Walk on Stars
 
   ```bib
-  @article{huang2024guiding,
+  @inproceedings{huang2025guiding,
     title={Guiding-Based Importance Sampling for Walk on Stars},
     author={Huang, Tianyu and Ling, Jingwang and Zhao, Shuang and Xu, Feng},
-    journal={arXiv preprint arXiv:2410.18944},
-    year={2024}
+    booktitle={SIGGRAPH 2025 Conference Papers},
+    year={2025}
   }
   ```
